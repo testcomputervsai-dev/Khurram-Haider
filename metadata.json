@@ -1,0 +1,6 @@
+{
+  "name": "Sky Strike - Arcade Jet Combat",
+  "description": "Top-down arcade air-combat browser game featuring fighter jets, multiple enemy waves, epic boss battles, guided missiles, and procedural Web Audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
